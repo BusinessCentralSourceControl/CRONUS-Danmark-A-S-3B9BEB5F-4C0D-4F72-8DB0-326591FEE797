@@ -4,13 +4,9 @@
   "publisher": "Gone for ever",
   "version": "1.0.0.0",
   "runtime": "8.0",
+  "showMyCode": false,
   "target": "Cloud",
   "platform": "19.0.29884.30390",
-  "resourceExposurePolicy": {
-    "allowDebugging": false,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  },
   "dependencies": [
     {
       "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
