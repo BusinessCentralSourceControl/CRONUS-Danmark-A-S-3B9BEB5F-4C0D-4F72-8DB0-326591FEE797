@@ -7,6 +7,7 @@ Report 56789 "New Invoice"
     {
         dataitem(Header;"Sales Invoice Header")
         {
+            PrintOnlyIfDetail = true;
             RequestFilterFields = "No.", "Bill-to Customer No.";
 
             column(ReportForNavId_2;2)
